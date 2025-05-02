@@ -29,7 +29,8 @@
 
 <h2>Configuration Steps</h2>
 
-<p>
+1.) we are going to sign in under admin user and login to start creating OS ticket user and show how the ticketing system works 
+
 ![PIS1](https://github.com/user-attachments/assets/af80005e-3b72-4e4a-b07e-444a09bd9e54)
 
 </p>
