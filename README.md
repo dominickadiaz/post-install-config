@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Post-Install Configuration</h1>This tutorial provides a comprehensive guide to configuring osTicket after installation, ensuring the system is optimized for efficient ticket management and customer support. It covers essential steps such as setting up email integration, configuring user roles and permissions, defining ticket categories, and enabling automation features. By following this guide, users can tailor osTicket to meet their organization's specific needs, enhancing workflow efficiency and improving the overall help desk experience.<br />
 
 
 <h2>Video Demonstration</h2>
