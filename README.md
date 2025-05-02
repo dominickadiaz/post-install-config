@@ -41,6 +41,10 @@
 
   ![PIS4](https://github.com/user-attachments/assets/cd15378e-bdad-425a-a7f3-a61023999566)
 
+we are going to create a new role and name it Supreme Admin
+![PIS5](https://github.com/user-attachments/assets/9a6bc99d-1e0c-4956-b67e-c1d6eaede2ab)
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
