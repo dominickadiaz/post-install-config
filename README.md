@@ -61,3 +61,22 @@ we are going to grant Supreme Admin, all access permissions
 ![PIS12](https://github.com/user-attachments/assets/9b626697-a1d9-4c24-b9cb-0249c5971894)
 ![PIS11](https://github.com/user-attachments/assets/0644b520-a2a3-4af9-ad4e-c405c84aba59)
 ![PIS10](https://github.com/user-attachments/assets/a83303ea-9313-47c8-be8c-a890e070b9fa)
+
+7.) we are going to go on the user panel and create a customer user, under the name of karen 
+![PIS14](https://github.com/user-attachments/assets/90c8f3de-0a93-40d3-8a87-c322f1975228)
+
+8.) now we are going to configure the SLA (Service Level Agreement) on the Admin panel 
+![PIS17](https://github.com/user-attachments/assets/3707d549-497d-413d-acfc-fc39e132947c)
+![PIS16](https://github.com/user-attachments/assets/45293323-9927-4a90-8240-77e043c628db)
+![PIS15](https://github.com/user-attachments/assets/216c9ab0-1405-481f-b2bc-fafaf2dccabe)
+
+9.) we now can create different help topics for the user customer to choose from so when submitted the topic onto the ticket, admins or employees can manage better solving troubleshooting
+
+go to admin panel, then to manage and you will see help topics, then go to add new help topics and then i added these new help topics
+![PIS 22](https://github.com/user-attachments/assets/ef9ca98b-4a6f-4e08-8272-4fef32a763db)
+![PIS 21](https://github.com/user-attachments/assets/669b307e-8658-486c-88ff-ed85beb5481f)
+![PIS 20](https://github.com/user-attachments/assets/519f46cc-f414-46d3-ac3c-fc81712046d4)
+![PIS 19](https://github.com/user-attachments/assets/1a48d91a-0889-41a3-b987-77cb55813b14)
+![PIS 18](https://github.com/user-attachments/assets/050a8925-4ffc-44ed-a270-4ab5ea18c557)
+
+
