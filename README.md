@@ -37,8 +37,10 @@
 
 </p>
 <p>
-2.) 
-<br />
+2.) we are going to configure roles for grouping permissions
+
+  ![PIS4](https://github.com/user-attachments/assets/cd15378e-bdad-425a-a7f3-a61023999566)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
