@@ -44,19 +44,20 @@
 we are going to create a new role and name it Supreme Admin
 ![PIS5](https://github.com/user-attachments/assets/9a6bc99d-1e0c-4956-b67e-c1d6eaede2ab)
 
+we are going to grant Supreme Admin, all access permissions
+![PIS6](https://github.com/user-attachments/assets/80a8cbb8-be06-48b5-885e-8720061647f5)
 
+3.) we will go on departments and create a new department called Sysadmins under a support role
+![PIS7](https://github.com/user-attachments/assets/cc7d4afe-64ed-4286-940e-d18dee575d4f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>real
-</p>
-<br />
+4.) next we will create a new team and label it Online banking 
+![PIS8](https://github.com/user-attachments/assets/c9435a78-c830-4306-9b6f-12eaefc18e3e)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+5.) we are going to go on User settings and make sure to uncheck unregistered users can create tickets
+![PIS9](https://github.com/user-attachments/assets/11f47347-c916-4ca4-805f-4f32b67ab85a)
+
+6.) now on the admin panel we are going to add two agents john and jane
+![PIS13](https://github.com/user-attachments/assets/c598efb8-0346-4ecb-bfb0-3128a9a7f668)
+![PIS12](https://github.com/user-attachments/assets/9b626697-a1d9-4c24-b9cb-0249c5971894)
+![PIS11](https://github.com/user-attachments/assets/0644b520-a2a3-4af9-ad4e-c405c84aba59)
+![PIS10](https://github.com/user-attachments/assets/a83303ea-9313-47c8-be8c-a890e070b9fa)
